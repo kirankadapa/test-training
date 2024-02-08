@@ -1,4 +1,5 @@
 Hi This files represents for Training
 
-This training is with regards to Gi
-this file im adding for trininhg
+This training is with regards to Git
+This is for Merge conflict
+
